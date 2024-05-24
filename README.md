@@ -5,7 +5,7 @@ Http/s for Growtopia Private Server
 - Node.JS
 - Open port 80 and 443
 - Install some modules
-  `npm i http https fs path child_process`
+```npm i http https fs path child_process```
 
 ## Features:
 - GTPS Website
