@@ -1,0 +1,19 @@
+{
+    "name_server": "GrowPlus",
+    "default_osm": "https://ubistatic-a.akamaihd.net/0098/37385",
+    "ip": "128.199.140.118",
+    "ip_beta": "0.0.0.0",
+    "port": "53181",
+    "port_beta": "28028",
+    "exe": "server.exe",
+    "url": {
+        "vhost": "",
+        "ptunel": ""
+    },
+    "path": {
+        "online": "../Online.txt",
+        "players": "../DATABASE/players",
+        "worlds": "../DATABASE/worlds",
+        "guilds": "../DATABASE/guilds"
+    }
+}
