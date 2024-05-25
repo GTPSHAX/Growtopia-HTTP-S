@@ -4,7 +4,7 @@ Http/s for Growtopia Private Server
 ## How to install
 - Open `run frist time.bat` run this bat for first time (Download require modules)
 - Edit the `config.json`
-- Put your cache to `./html/cache` folder
+- Put your cache on `./html/cache` folder
 - Open `start.bat`
   
 ## Require:
